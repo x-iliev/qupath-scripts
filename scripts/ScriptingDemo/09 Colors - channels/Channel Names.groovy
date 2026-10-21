@@ -1,0 +1,1 @@
+setChannelNames("PDL1", "CD8","FoxP3","CD68","PD1","CK","DAPI","AF")
